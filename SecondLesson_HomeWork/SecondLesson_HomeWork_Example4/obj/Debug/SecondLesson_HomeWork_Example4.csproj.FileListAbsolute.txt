@@ -1,0 +1,6 @@
+C:\Users\elena\source\repos\SecondLesson_HomeWork\SecondLesson_HomeWork_Example4\bin\Debug\SecondLesson_HomeWork_Example4.exe.config
+C:\Users\elena\source\repos\SecondLesson_HomeWork\SecondLesson_HomeWork_Example4\bin\Debug\SecondLesson_HomeWork_Example4.exe
+C:\Users\elena\source\repos\SecondLesson_HomeWork\SecondLesson_HomeWork_Example4\bin\Debug\SecondLesson_HomeWork_Example4.pdb
+C:\Users\elena\source\repos\SecondLesson_HomeWork\SecondLesson_HomeWork_Example4\obj\Debug\SecondLesson_HomeWork_Example4.csproj.CoreCompileInputs.cache
+C:\Users\elena\source\repos\SecondLesson_HomeWork\SecondLesson_HomeWork_Example4\obj\Debug\SecondLesson_HomeWork_Example4.exe
+C:\Users\elena\source\repos\SecondLesson_HomeWork\SecondLesson_HomeWork_Example4\obj\Debug\SecondLesson_HomeWork_Example4.pdb
